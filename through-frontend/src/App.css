@@ -1,0 +1,22 @@
+@import '~antd/dist/antd.css';
+
+.logo {
+  float: left;
+  width: 120px;
+  height: 31px;
+  margin: 16px 24px 20px 0;
+}
+.site-layout .site-layout-background {
+  background: #fff;
+}
+[data-theme="dark"] .site-layout .site-layout-background {
+  background: #141414;
+  opacity: 100;
+}
+
+.logoo{
+  margin-top: 2px;
+  margin-left: 3px;
+  color:whitesmoke;
+  font-family: monospace;
+}
