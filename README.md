@@ -1,4 +1,8 @@
-# through-app
+# Through
+
+Through is a location & profession based streaming platform where every single user has its own channel and freely able to stream. It utilizes Agora's Live Streaming SDK to provide streaming solution.
+
+# Configuration
 
 We will assume that you have Node.js installed on your machine!
 
